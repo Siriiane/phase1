@@ -1,0 +1,23 @@
+header {
+    background-color: #900c3f;
+height: 100px;
+color: white;
+}
+nav{
+    background-color:#daf7a6;
+    height: 60px;
+    color: red;
+    
+}
+*{text-align: right;}
+
+section:first-child{
+    background: navy;
+    height: 550px;
+
+}
+body {
+    background-color:#f5deb3 ;
+}
+
+

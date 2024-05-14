@@ -1,0 +1,20 @@
+h1{
+display: inline ; 
+}
+
+.premier_lien{
+    background-color: rgb(105, 117, 117);
+    color: aqua;
+}
+a{
+    background-color: aquamarine;
+    display: block;
+    background-color: azure
+
+}
+
+p.parag_inline{
+    display: inline;
+}
+
+
