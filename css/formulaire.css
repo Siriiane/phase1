@@ -1,0 +1,24 @@
+*{
+    font-family:"arial, Helvetica, sans sefif";
+
+}
+label {
+    background-color: lightgray;
+    color: blue;
+    width: 190px;
+    float: left;
+}
+div:first-child{
+    float: left
+}
+
+.clear{
+    clear: both
+}
+
+section {
+    background-color: yellow;
+    width: 400px
+}
+
+

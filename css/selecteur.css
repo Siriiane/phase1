@@ -1,0 +1,58 @@
+/*
+:first-child
+:last-child
+:nth-child(even) : éléments pairs
+:nth-child(odd) : élémnets impairs
+:nth-child(3)
+:nth-child(10)
+::after { 
+    content: "après"
+}
+::before {
+    content: "avant"
+}
+
+la balise "span" c'est une balise de type 'inline'
+span:not(.lime){
+
+}
+
+font-size :
+font-weight:
+*/
+
+h1 {
+    background-color: darkgreen;
+    color: white;
+
+}
+
+p:nth-child(odd){
+color: orchid;
+}
+
+p:nth-child(even){
+    color: aqua;
+}
+
+p:nth-child(10){
+
+color: orange;
+}
+
+div.zone2 span.lime {
+    color: lime !important
+}
+
+.zone2 {
+    color: blue;
+}
+
+.zone1 {
+    color: pink;
+}
+
+#zone3 {
+    color: burlywood;
+}
+
