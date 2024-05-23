@@ -6,7 +6,7 @@
 body{
     height: auto;
     border-top:52px ;
-    width: 40%;
+    width: 20%;
     margin: auto;
     background-color: white;
  
@@ -15,7 +15,16 @@ h1 {
     text-indent: 15px;
     border-bottom-width: 2px;
     border-bottom-style: solid;
-    border-bottom-color:rgba(120, 168, 47, 0.418);
+    border-bottom-color:rgba(133, 197, 36, 0.418);
+    padding-right: 15px;
+    width: 90%;
+    color: rgba(120, 168, 47, 0.418);
+}
+h2 {
+    text-indent: 15px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color:rgba(133, 197, 36, 0.418);
     padding-right: 15px;
     width: 90%;
     color: rgba(120, 168, 47, 0.418);
@@ -25,7 +34,7 @@ h3 {
     text-indent: 15px;
     border-bottom-width: 2px;
     border-bottom-style: solid;
-    border-bottom-color: rgba(120, 168, 47, 0.418);
+    border-bottom-color: rgba(127, 190, 31, 0.418);
     border-left-width: 4px;
     border-left-style: solid;
     border-left-color: rgba(120, 168, 47, 0.418);
@@ -56,9 +65,6 @@ html{
     width: 10;
 }
  
-.smallaple{
-    ;
-}
  
 footer{
     color: rgba(120, 168, 47, 0.418);
