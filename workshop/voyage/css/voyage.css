@@ -1,0 +1,23 @@
+* {
+}
+header {
+}
+
+#hleft {
+  background-image: linear-gradient(rgb(45, 253, 149), rgb(34, 193, 195));
+  width: 2000px;
+  height: 100px;
+  border: white 1px solid;
+  color: white;
+  display: flex;
+}
+nav {
+  width: 2000px;
+  height: 38px;
+  background-color: rgb(34, 193, 195);
+  border: white 1px solid;
+  color: white;
+  display: flex;
+}
+main {
+}
