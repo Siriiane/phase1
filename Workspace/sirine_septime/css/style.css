@@ -1,0 +1,37 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#general {
+  width: 1024px;
+  margin: auto;
+}
+header {
+  margin: auto;
+  width: 500px;
+  height: 30 px;
+  border: 1px none solid;
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+.city {
+  color: rgb(134, 10, 10);
+}
+.bilan {
+  border: black solid 1px;
+}
+section {
+  display: flex;
+}
+#down {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.foot1 {
+  margin: auto;
+  display: flex;
+  text-align: center;
+}
