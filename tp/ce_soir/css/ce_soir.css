@@ -1,0 +1,37 @@
+* {
+  margin: auto;
+  padding: auto;
+}
+/* header {
+  width: 1200px;
+  height: 200px;
+  border: 1px black solid;
+}
+#lien {
+  display: flex;
+}
+.part1 {
+  display: flex;
+  flex-wrap: wrap;
+} */
+#all_content {
+  width: 1200px;
+  /* font-family: ; */
+}
+header {
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+ul {
+  display: flex;
+}
+@media (max-width: 1200px) {
+}
+@media (max-width: 1198.99px) {
+}
+@media (max-width: 959.98px) {
+}
+@media (max-width: 559.98px) {
+}
