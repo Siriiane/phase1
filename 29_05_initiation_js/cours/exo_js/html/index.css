@@ -1,0 +1,40 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  height: 1200px;
+}
+.carreR {
+  width: 80px;
+}
+.carreB {
+  width: 50px;
+  background-color: blue;
+  border: 1px black solid;
+}
+.conteneur {
+}
+.triangle {
+  width: 50px;
+  background-color: blueviolet;
+  border: 1px black solid;
+}
+.rond {
+  width: 50px;
+  background-color: aqua;
+  border: 1px black solid;
+}
+.ombre {
+  width: 50px;
+  background-color: grey;
+  border: 1px black solid;
+}
+.carreG {
+  background-color: green;
+  border: 1px black solid;
+}
+.carreY {
+  background-color: yellow;
+  border: 1px black solid;
+}
