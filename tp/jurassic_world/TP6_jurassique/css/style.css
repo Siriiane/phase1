@@ -1,0 +1,135 @@
+/*
+.flexbox{
+display: flex;
+
+Flex Container : 
+flex-direction: column;
+flex-direction: column-reverse;
+flex-direction: row;
+flex-direction: row-reverse;
+flex-wrap: wrap;
+flex-wrap: nowrap;
+flex-wrap: wrap-reverse;
+flex-flow: row wrap;
+justify-content: center;
+justify-content: flex-start;
+justify-content: flex-end;
+justify-content: space-around;
+justify-content: space-between;
+justify-content: space-evenly;
+
+height: 200px; à définir absolument une hauteur quand on utilise "align-items"
+align-items: center;
+align-items: flex-start;
+align-items: flex-end;
+align-items: stretch;
+align-items: baseline;
+
+flex-wrap: wrap;
+align-content: space-between;
+
+flex-wrap: wrap;
+align-content: space-around;
+
+flex-wrap: wrap;
+align-content: stretch;
+
+flex-wrap: wrap;
+align-content: center;
+align-content: space-evenly;
+
+flex-wrap: wrap;
+align-content: flex-start;
+
+flex-wrap: wrap;
+align-content: flex-end;
+
+justify-content: center;
+align-items: center;
+
+Child Elements (Items) :
+display: flex;
+align-items: stretch; ->
+pour un item :
+order
+
+display: flex;
+align-items: stretch; ->
+pour un item :
+order
+
+display: flex;
+align-items: stretch;
+
+flex-grow
+
+display: flex;
+align-items: stretch;
+flex-shrink
+
+
+flex-basis
+flex : auto // On l'utilse pour les enfants
+align-self
+
+
+flex-flow
+
+}
+*/
+
+/*************** GLOBAL ***************/
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/*************** HEADER ***************/
+
+/*************** END HEADER ***************/
+
+/*************** NAV ***************/
+
+/*************** END NAV ***************
+
+/*************** MAIN ***************/
+
+/*************** END MAIN ***************/
+
+/*************** SECTION 1 ***************/
+
+/*************** END SECTION 1 ***************/
+
+/*************** SECTION 2 ***************/
+
+/*************** END SECTION 2 ***************/
+
+/*************** SECTION 3 ***************/
+
+/*************** END SECTION 3 ***************/
+
+/*************** ASIDE RIGHT ***************/
+
+/*************** END ASIDE RIGHT ***************/
+
+/*************** FOOTER ***************/
+
+/*************** END FOOTER ***************/
+
+/*************** MEDIAQUERY ***************/
+
+@media (max-width: 1439.98px) {
+}
+
+@media (max-width: 960px) {
+}
+
+@media (max-width: 760px) {
+}
+
+@media (max-width: 560px) {
+}
+
+/*************** END MEDIAQUERY ***************/

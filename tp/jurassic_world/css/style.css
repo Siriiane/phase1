@@ -1,0 +1,84 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#jslogo {
+  margin: auto;
+  text-align: center;
+}
+
+header {
+  background-image: url(/img/dinosaure.jpg);
+  height: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#juworld {
+  margin-top: 50px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+.mainH {
+  max-width: 50%;
+  text-align: center;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+nav {
+  background-color: black;
+  height: 50px;
+}
+.billeterie {
+  background-color: rgba(17, 81, 81, 0.986);
+}
+ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+  width: 80%;
+  margin: auto;
+  text-transform: uppercase;
+}
+#titre {
+  margin-top: 50px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.reserver {
+  text-decoration: none;
+}
+
+.mainB {
+}
+
+.part {
+  justify-content: space-between;
+  border: 1px black solid;
+}
+
+.foot {
+  border: 1px black solid;
+  background-color: black;
+}
+#metro13 {
+  margin: 10px;
+}
+
+@media (max-width: 1439.98px) {
+}
+
+@media (max-width: 960px) {
+}
+
+@media (max-width: 760px) {
+}
+
+@media (max-width: 560px) {
+}
